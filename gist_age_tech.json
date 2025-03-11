@@ -1,0 +1,4274 @@
+[
+ {
+   "Country": "Türkiye",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0.7,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Namibia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Russia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 37.386,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 8.801,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Italy",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 4,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.567
+ },
+ {
+   "Country": "Angola",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Africa",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 2.044,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Spain",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Peru",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "India",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 19.673,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 1.466,
+   "Electric arc furnace (EAF)": 0.696
+ },
+ {
+   "Country": "Nigeria",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Germany",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 10.727,
+   "Direct reduced iron (DRI)": 0.6,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Iran",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.054
+ },
+ {
+   "Country": "Japan",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 54.938,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 2.963,
+   "Electric arc furnace (EAF)": 1.503
+ },
+ {
+   "Country": "Kazakhstan",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 6.45,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Iraq",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 8.217,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Egypt",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Algeria",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 1,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Canada",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 7.088,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United States",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 11.468,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 21.801,
+   "Electric arc furnace (EAF)": 1.463
+ },
+ {
+   "Country": "Mexico",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.121
+ },
+ {
+   "Country": "China",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 26.387,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 3.501,
+   "Electric arc furnace (EAF)": 1.129
+ },
+ {
+   "Country": "Indonesia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belgium",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 5,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Brazil",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 8.382,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0.6,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Argentina",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0.15,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.45
+ },
+ {
+   "Country": "Poland",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "France",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 6.9,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Romania",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Morocco",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.72
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Chile",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Thailand",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.48
+ },
+ {
+   "Country": "Philippines",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 3,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Finland",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.65
+ },
+ {
+   "Country": "New Zealand",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Australia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 1.5,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 4.4,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 2.887,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belarus",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 7.7,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 2.1,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "North Korea",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0.8,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 1,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Korea",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 1.246,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0.883,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Kenya",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 4.2,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Syria",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Greece",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.3
+ },
+ {
+   "Country": "Serbia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sweden",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 1.3,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Qatar",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Oman",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Moldova",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Albania",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hungary",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Libya",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Latvia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 3,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Singapore",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ghana",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Norway",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Portugal",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bulgaria",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bahrain",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 1.95,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uganda",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Kuwait",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Austria",
+   "Age group": "50+ years",
+   "Blast furnace (BF)": 2.525,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 6,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Türkiye",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 3.1,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Namibia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Russia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 3.4,
+   "Direct reduced iron (DRI)": 1.38,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.5
+ },
+ {
+   "Country": "Italy",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.867
+ },
+ {
+   "Country": "Angola",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Africa",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.848,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Spain",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Peru",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "India",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 12.089,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 7.233,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "Nigeria",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Germany",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 2.555,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.4
+ },
+ {
+   "Country": "Pakistan",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Iran",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Japan",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 13.828,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 2.858,
+   "Electric arc furnace (EAF)": 2.538
+ },
+ {
+   "Country": "Kazakhstan",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Iraq",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.5,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 2.592,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Egypt",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Algeria",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Canada",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.9,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United States",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 4.2,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 4.819
+ },
+ {
+   "Country": "Mexico",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 1.452,
+   "Direct reduced iron (DRI)": 0.78,
+   "Basic oxygen furnace (BOF)": 2.5,
+   "Electric arc furnace (EAF)": 0.145
+ },
+ {
+   "Country": "China",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 6.95,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.739
+ },
+ {
+   "Country": "Indonesia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belgium",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Brazil",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 7.644,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 6.351,
+   "Electric arc furnace (EAF)": 3.435
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Argentina",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.56,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Poland",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "France",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 2,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.25
+ },
+ {
+   "Country": "Romania",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Morocco",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Chile",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Thailand",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Philippines",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Finland",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Australia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.5
+ },
+ {
+   "Country": "Belarus",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "Cambodia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "North Korea",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 2.92,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.29,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Korea",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 12.9,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 11.076,
+   "Electric arc furnace (EAF)": 2.013
+ },
+ {
+   "Country": "Kenya",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Syria",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Greece",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Serbia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.875
+ },
+ {
+   "Country": "Sweden",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 2.4,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Qatar",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Oman",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Moldova",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Albania",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hungary",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Libya",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Latvia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Singapore",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ghana",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Norway",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Portugal",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bulgaria",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bahrain",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uganda",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Kuwait",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Austria",
+   "Age group": "40-49 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Türkiye",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Namibia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Russia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 4.2,
+   "Direct reduced iron (DRI)": 1.8,
+   "Basic oxygen furnace (BOF)": 7,
+   "Electric arc furnace (EAF)": 0.45
+ },
+ {
+   "Country": "Bangladesh",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Italy",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.6
+ },
+ {
+   "Country": "Angola",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Africa",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 3.2,
+   "Direct reduced iron (DRI)": 0.256,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Spain",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Peru",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "India",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 11.861,
+   "Direct reduced iron (DRI)": 6.911,
+   "Basic oxygen furnace (BOF)": 8.001,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Germany",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 1.825,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Iran",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 3.649,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 2.95
+ },
+ {
+   "Country": "Japan",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 1.642,
+   "Electric arc furnace (EAF)": 1.386
+ },
+ {
+   "Country": "Kazakhstan",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Iraq",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 1.411,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Egypt",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.72,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Algeria",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Canada",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0.6,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United States",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 12.526
+ },
+ {
+   "Country": "Mexico",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.43,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 7.295
+ },
+ {
+   "Country": "China",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 15.391,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0.945,
+   "Electric arc furnace (EAF)": 4.519
+ },
+ {
+   "Country": "Indonesia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belgium",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Brazil",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 5.45,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.53
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Argentina",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Poland",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 4.5,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "France",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Romania",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Morocco",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Chile",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Thailand",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.6
+ },
+ {
+   "Country": "Philippines",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 2.25
+ },
+ {
+   "Country": "Zimbabwe",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Finland",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Australia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belarus",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 7.65,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "Taiwan",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "North Korea",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 3,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.57
+ },
+ {
+   "Country": "Venezuela",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.82,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Korea",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 14.1,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 17.265,
+   "Electric arc furnace (EAF)": 3.342
+ },
+ {
+   "Country": "Kenya",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Syria",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Greece",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Serbia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 1.3,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sweden",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Qatar",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Oman",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Moldova",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Albania",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hungary",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Libya",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.1,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.076
+ },
+ {
+   "Country": "Latvia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.269
+ },
+ {
+   "Country": "North Macedonia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Singapore",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ghana",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Norway",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Portugal",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bulgaria",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bahrain",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uganda",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Kuwait",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Austria",
+   "Age group": "30-39 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Türkiye",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0.235,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.544
+ },
+ {
+   "Country": "Namibia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Russia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 6.22,
+   "Direct reduced iron (DRI)": 1,
+   "Basic oxygen furnace (BOF)": 3.5,
+   "Electric arc furnace (EAF)": 1.152
+ },
+ {
+   "Country": "Bangladesh",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Italy",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.567
+ },
+ {
+   "Country": "Angola",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Africa",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Spain",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.86
+ },
+ {
+   "Country": "Peru",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "India",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 9.539,
+   "Direct reduced iron (DRI)": 3.565,
+   "Basic oxygen furnace (BOF)": 5.504,
+   "Electric arc furnace (EAF)": 4.978
+ },
+ {
+   "Country": "Nigeria",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "Germany",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 1.5,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Iran",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.85,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.6
+ },
+ {
+   "Country": "Japan",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.396,
+   "Basic oxygen furnace (BOF)": 12.759,
+   "Electric arc furnace (EAF)": 4.448
+ },
+ {
+   "Country": "Kazakhstan",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Iraq",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.725
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.1,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.45
+ },
+ {
+   "Country": "Ukraine",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 1.36,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Egypt",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.6,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 2.25
+ },
+ {
+   "Country": "Algeria",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Canada",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 2.2
+ },
+ {
+   "Country": "United States",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.26,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 12.898
+ },
+ {
+   "Country": "Mexico",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.15,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 3.103
+ },
+ {
+   "Country": "China",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 51.535,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 22.448,
+   "Electric arc furnace (EAF)": 8.785
+ },
+ {
+   "Country": "Indonesia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belgium",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "Brazil",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 2.63,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.1
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Argentina",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Poland",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.2
+ },
+ {
+   "Country": "Luxembourg",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "France",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Romania",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Morocco",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.8
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 1.1,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.8
+ },
+ {
+   "Country": "Chile",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.73
+ },
+ {
+   "Country": "Thailand",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Philippines",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 3.65
+ },
+ {
+   "Country": "Zimbabwe",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Finland",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Australia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belarus",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0.733,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "North Korea",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 3,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 3.2,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Korea",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 5,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.171
+ },
+ {
+   "Country": "Kenya",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 2.6,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Syria",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Greece",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Serbia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sweden",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Qatar",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Oman",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.525
+ },
+ {
+   "Country": "Moldova",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 1.53,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Albania",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hungary",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.84
+ },
+ {
+   "Country": "Libya",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.706,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Latvia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Singapore",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ghana",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Norway",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.535
+ },
+ {
+   "Country": "Portugal",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.65
+ },
+ {
+   "Country": "Bulgaria",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bahrain",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uganda",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.3
+ },
+ {
+   "Country": "Kuwait",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Austria",
+   "Age group": "20-29 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.55
+ },
+ {
+   "Country": "Türkiye",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 3.99,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 4.26
+ },
+ {
+   "Country": "Namibia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Russia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 6.95,
+   "Direct reduced iron (DRI)": 1.4,
+   "Basic oxygen furnace (BOF)": 3.3,
+   "Electric arc furnace (EAF)": 2.034
+ },
+ {
+   "Country": "Bangladesh",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.4
+ },
+ {
+   "Country": "Italy",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 7.4
+ },
+ {
+   "Country": "Angola",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Africa",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.3,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Spain",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "Peru",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "India",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 46.317,
+   "Direct reduced iron (DRI)": 14.083,
+   "Basic oxygen furnace (BOF)": 21.276,
+   "Electric arc furnace (EAF)": 14.963
+ },
+ {
+   "Country": "Nigeria",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Germany",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 2.8,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 11,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 1.22,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.5
+ },
+ {
+   "Country": "Guatemala",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.45
+ },
+ {
+   "Country": "Iran",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 1.4,
+   "Direct reduced iron (DRI)": 17.15,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 5.856
+ },
+ {
+   "Country": "Japan",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 1.4,
+   "Direct reduced iron (DRI)": 0.38,
+   "Basic oxygen furnace (BOF)": 10.088,
+   "Electric arc furnace (EAF)": 7.652
+ },
+ {
+   "Country": "Kazakhstan",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.84
+ },
+ {
+   "Country": "Iraq",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.216
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 3.1,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.735
+ },
+ {
+   "Country": "Ukraine",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 5.201,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Egypt",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 3.9,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 4.05
+ },
+ {
+   "Country": "Algeria",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "Canada",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.85
+ },
+ {
+   "Country": "Malaysia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 2.8,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 3.9
+ },
+ {
+   "Country": "United States",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 3.5,
+   "Direct reduced iron (DRI)": 2.5,
+   "Basic oxygen furnace (BOF)": 1,
+   "Electric arc furnace (EAF)": 10.411
+ },
+ {
+   "Country": "Mexico",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "China",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 277.024,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 40.794,
+   "Electric arc furnace (EAF)": 10.403
+ },
+ {
+   "Country": "Indonesia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 7.75,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 4,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belgium",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Brazil",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 4.693,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 3.475
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 4,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Argentina",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.23
+ },
+ {
+   "Country": "Poland",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "France",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Romania",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.5
+ },
+ {
+   "Country": "Morocco",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 2
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Chile",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "Azerbaijan",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Thailand",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.25
+ },
+ {
+   "Country": "Philippines",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Finland",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0.3,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.2
+ },
+ {
+   "Country": "New Zealand",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Australia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 2.65,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belarus",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 1.52,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 2.375,
+   "Electric arc furnace (EAF)": 1.26
+ },
+ {
+   "Country": "Taiwan",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 3.334,
+   "Electric arc furnace (EAF)": 1.1
+ },
+ {
+   "Country": "North Korea",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 10.28,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Korea",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 8.36,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 23.776,
+   "Electric arc furnace (EAF)": 5.025
+ },
+ {
+   "Country": "Kenya",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.864
+ },
+ {
+   "Country": "Syria",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0.15,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.26
+ },
+ {
+   "Country": "Greece",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Serbia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sweden",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Qatar",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.7,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Oman",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.82,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 3.1
+ },
+ {
+   "Country": "Moldova",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.6
+ },
+ {
+   "Country": "Albania",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hungary",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Libya",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Latvia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Singapore",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ghana",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.77
+ },
+ {
+   "Country": "Norway",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Portugal",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bulgaria",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.7
+ },
+ {
+   "Country": "Bahrain",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.6,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "Uganda",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Kuwait",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Austria",
+   "Age group": "10-19 years",
+   "Blast furnace (BF)": 2.5,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Türkiye",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 1.825,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.565
+ },
+ {
+   "Country": "Namibia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Russia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 8.371,
+   "Direct reduced iron (DRI)": 2.2,
+   "Basic oxygen furnace (BOF)": 8.6,
+   "Electric arc furnace (EAF)": 8.122
+ },
+ {
+   "Country": "Bangladesh",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.65
+ },
+ {
+   "Country": "Italy",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.5
+ },
+ {
+   "Country": "Angola",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 2.5
+ },
+ {
+   "Country": "South Africa",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Spain",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.725
+ },
+ {
+   "Country": "Peru",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.25
+ },
+ {
+   "Country": "India",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 27.35,
+   "Direct reduced iron (DRI)": 3.421,
+   "Basic oxygen furnace (BOF)": 30.116,
+   "Electric arc furnace (EAF)": 5.35
+ },
+ {
+   "Country": "Nigeria",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Germany",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 3.6
+ },
+ {
+   "Country": "Pakistan",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.5
+ },
+ {
+   "Country": "Guatemala",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Iran",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 16.56,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 13.04
+ },
+ {
+   "Country": "Japan",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 2.358
+ },
+ {
+   "Country": "Kazakhstan",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Iraq",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Egypt",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.9,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Algeria",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 8,
+   "Basic oxygen furnace (BOF)": 0.35,
+   "Electric arc furnace (EAF)": 2
+ },
+ {
+   "Country": "Canada",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 6.38,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "United States",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 3.9,
+   "Basic oxygen furnace (BOF)": 2.722,
+   "Electric arc furnace (EAF)": 8.652
+ },
+ {
+   "Country": "Mexico",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.99
+ },
+ {
+   "Country": "China",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 257.896,
+   "Direct reduced iron (DRI)": 2.11,
+   "Basic oxygen furnace (BOF)": 148.703,
+   "Electric arc furnace (EAF)": 50.888
+ },
+ {
+   "Country": "Indonesia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 3.736,
+   "Direct reduced iron (DRI)": 1.5,
+   "Basic oxygen furnace (BOF)": 7,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belgium",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Brazil",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 3.912,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Argentina",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Poland",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 5.001,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "France",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Romania",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 4.325
+ },
+ {
+   "Country": "Morocco",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.65
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 1.14,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Chile",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Thailand",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.3
+ },
+ {
+   "Country": "Philippines",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1
+ },
+ {
+   "Country": "Finland",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.4
+ },
+ {
+   "Country": "New Zealand",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Australia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0.88,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.84
+ },
+ {
+   "Country": "United Kingdom",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Belarus",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.5
+ },
+ {
+   "Country": "Cambodia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 9.443,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 18.501,
+   "Electric arc furnace (EAF)": 0.3
+ },
+ {
+   "Country": "Taiwan",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 2.74,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.6
+ },
+ {
+   "Country": "North Korea",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.5
+ },
+ {
+   "Country": "Venezuela",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "South Korea",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.3,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 2
+ },
+ {
+   "Country": "Kenya",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.5,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Syria",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 1,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Greece",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.9
+ },
+ {
+   "Country": "Serbia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 2.44,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0.733,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sweden",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.009,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.4
+ },
+ {
+   "Country": "Qatar",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.55
+ },
+ {
+   "Country": "Oman",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0.6
+ },
+ {
+   "Country": "Moldova",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Albania",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 1.15,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hungary",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Libya",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 2.7
+ },
+ {
+   "Country": "Latvia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 1.925
+ },
+ {
+   "Country": "Singapore",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Ghana",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Norway",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Portugal",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bulgaria",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Bahrain",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Uganda",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.2,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Kuwait",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ },
+ {
+   "Country": "Austria",
+   "Age group": "0-9 years",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.001,
+   "Basic oxygen furnace (BOF)": 0,
+   "Electric arc furnace (EAF)": 0
+ }
+]
