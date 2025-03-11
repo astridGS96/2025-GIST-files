@@ -1,0 +1,1829 @@
+[
+ {
+   "Country": "Türkiye",
+   "Status": "operating",
+   "Blast furnace (BF)": 13.988,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Namibia",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Russia",
+   "Status": "operating",
+   "Blast furnace (BF)": 59.939,
+   "Direct reduced iron (DRI)": 7.78,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Italy",
+   "Status": "operating",
+   "Blast furnace (BF)": 4,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Italy",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Italy",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 5.5,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Angola",
+   "Status": "operating",
+   "Blast furnace (BF)": 0.096,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Africa",
+   "Status": "operating",
+   "Blast furnace (BF)": 3.944,
+   "Direct reduced iron (DRI)": 1.404,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Spain",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Peru",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Peru",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0.4,
+   "Direct reduced iron (DRI)": 0.18,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "India",
+   "Status": "operating",
+   "Blast furnace (BF)": 110.396,
+   "Direct reduced iron (DRI)": 35.083,
+   "Other or unspecified": 3.4
+ },
+ {
+   "Country": "India",
+   "Status": "announced",
+   "Blast furnace (BF)": 127.559,
+   "Direct reduced iron (DRI)": 27.602,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Status": "construction",
+   "Blast furnace (BF)": 1.355,
+   "Direct reduced iron (DRI)": 1,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Germany",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 7.25,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Germany",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0.73,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Germany",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 29.047,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Status": "announced",
+   "Blast furnace (BF)": 4.5,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iran",
+   "Status": "operating",
+   "Blast furnace (BF)": 5.3,
+   "Direct reduced iron (DRI)": 44.209,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Japan",
+   "Status": "operating",
+   "Blast furnace (BF)": 76.934,
+   "Direct reduced iron (DRI)": 0.776,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kazakhstan",
+   "Status": "announced",
+   "Blast furnace (BF)": 0.728,
+   "Direct reduced iron (DRI)": 4,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iraq",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Status": "operating",
+   "Blast furnace (BF)": 18.882,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 15.206,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Status": "retired",
+   "Blast furnace (BF)": 15.073,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Egypt",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 8.12,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Algeria",
+   "Status": "operating",
+   "Blast furnace (BF)": 1.5,
+   "Direct reduced iron (DRI)": 8,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Algeria",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Canada",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Canada",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 1.716,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Canada",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 4.998,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 6.7,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 7.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Status": "operating",
+   "Blast furnace (BF)": 6.4,
+   "Direct reduced iron (DRI)": 0.9,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Status": "announced",
+   "Blast furnace (BF)": 6.6,
+   "Direct reduced iron (DRI)": 2.5,
+   "Other or unspecified": 6.5
+ },
+ {
+   "Country": "United States",
+   "Status": "operating",
+   "Blast furnace (BF)": 23.735,
+   "Direct reduced iron (DRI)": 6.66,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mexico",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 4.38,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iran",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 10.71,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Russia",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Russia",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 1.8,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "China",
+   "Status": "operating",
+   "Blast furnace (BF)": 811.825,
+   "Direct reduced iron (DRI)": 2.41,
+   "Other or unspecified": 0.427
+ },
+ {
+   "Country": "China",
+   "Status": "construction",
+   "Blast furnace (BF)": 49.532,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 1.65
+ },
+ {
+   "Country": "China",
+   "Status": "retired",
+   "Blast furnace (BF)": 236.135,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "China",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 82.198,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 1.2
+ },
+ {
+   "Country": "Indonesia",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0.8,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Belgium",
+   "Status": "operating",
+   "Blast furnace (BF)": 2.3,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Brazil",
+   "Status": "operating",
+   "Blast furnace (BF)": 33.636,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 4.2,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Argentina",
+   "Status": "operating",
+   "Blast furnace (BF)": 4.015,
+   "Direct reduced iron (DRI)": 1.56,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Spain",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 4.3,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Spain",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Spain",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 4.7,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "India",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 4.98,
+   "Direct reduced iron (DRI)": 7.248,
+   "Other or unspecified": 1.7
+ },
+ {
+   "Country": "Germany",
+   "Status": "operating",
+   "Blast furnace (BF)": 2.6,
+   "Direct reduced iron (DRI)": 0.6,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United States",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 4.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United States",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 7,
+   "Other or unspecified": 1
+ },
+ {
+   "Country": "Poland",
+   "Status": "operating",
+   "Blast furnace (BF)": 4.5,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Canada",
+   "Status": "operating",
+   "Blast furnace (BF)": 2.4,
+   "Direct reduced iron (DRI)": 1.65,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Canada",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "France",
+   "Status": "operating",
+   "Blast furnace (BF)": 3.6,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "France",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 6.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "France",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 5.3,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Luxembourg",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "France",
+   "Status": "retired",
+   "Blast furnace (BF)": 2.848,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Belgium",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Belgium",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 2.7,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Romania",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Brazil",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0.5,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Poland",
+   "Status": "retired",
+   "Blast furnace (BF)": 1.31,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mexico",
+   "Status": "operating",
+   "Blast furnace (BF)": 1.452,
+   "Direct reduced iron (DRI)": 5.86,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "France",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 2,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Brazil",
+   "Status": "construction",
+   "Blast furnace (BF)": 1.2,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0.5
+ },
+ {
+   "Country": "South Africa",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "India",
+   "Status": "construction",
+   "Blast furnace (BF)": 14.3,
+   "Direct reduced iron (DRI)": 5.752,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Africa",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.8,
+   "Other or unspecified": 0.76
+ },
+ {
+   "Country": "Morocco",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Africa",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 1.3,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Status": "operating",
+   "Blast furnace (BF)": 1.1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iran",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 19.1,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Chile",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.25,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Russia",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 3.4,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Thailand",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Philippines",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "China",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 14.675,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "China",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 18.071,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0.325
+ },
+ {
+   "Country": "Bangladesh",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.2,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "China",
+   "Status": "announced",
+   "Blast furnace (BF)": 55.696,
+   "Direct reduced iron (DRI)": 1,
+   "Other or unspecified": 0.68
+ },
+ {
+   "Country": "Zimbabwe",
+   "Status": "announced",
+   "Blast furnace (BF)": 5.27,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Finland",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 4,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.326,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.326,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Australia",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Australia",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 3,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Australia",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 4.2,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 2.4,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 3,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Belarus",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 3,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Chile",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 1.482,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Status": "announced",
+   "Blast furnace (BF)": 7.8,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Status": "announced",
+   "Blast furnace (BF)": 3.1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Status": "operating",
+   "Blast furnace (BF)": 13.92,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 2.1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "North Korea",
+   "Status": "operating",
+   "Blast furnace (BF)": 5.249,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "North Korea",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Japan",
+   "Status": "retired",
+   "Blast furnace (BF)": 17.588,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United States",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 8.726,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United States",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 2.09,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Indonesia",
+   "Status": "operating",
+   "Blast furnace (BF)": 10.56,
+   "Direct reduced iron (DRI)": 1.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Angola",
+   "Status": "announced",
+   "Blast furnace (BF)": 0.423,
+   "Direct reduced iron (DRI)": 1.2,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 6.31,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 4.18,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Korea",
+   "Status": "operating",
+   "Blast furnace (BF)": 50.09,
+   "Direct reduced iron (DRI)": 0.3,
+   "Other or unspecified": 4.3
+ },
+ {
+   "Country": "Mexico",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.1,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mexico",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kenya",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Indonesia",
+   "Status": "announced",
+   "Blast furnace (BF)": 3,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Status": "operating",
+   "Blast furnace (BF)": 0.6,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Romania",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Romania",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Türkiye",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Egypt",
+   "Status": "retired",
+   "Blast furnace (BF)": 1.4,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "India",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "India",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 2.738,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Türkiye",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.25,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Algeria",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Russia",
+   "Status": "announced",
+   "Blast furnace (BF)": 3.7,
+   "Direct reduced iron (DRI)": 6.54,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Russia",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 3.586,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Status": "operating",
+   "Blast furnace (BF)": 15.92,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Australia",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 1.5
+ },
+ {
+   "Country": "Brazil",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 5.16,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Brazil",
+   "Status": "retired",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Romania",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Romania",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Romania",
+   "Status": "mothballed pre-retirement",
+   "Blast furnace (BF)": 2.1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 2.1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Status": "retired",
+   "Blast furnace (BF)": 1.1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Australia",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 17.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Spain",
+   "Status": "retired",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Indonesia",
+   "Status": "retired",
+   "Blast furnace (BF)": 2,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Syria",
+   "Status": "operating",
+   "Blast furnace (BF)": 0.3,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Greece",
+   "Status": "retired",
+   "Blast furnace (BF)": 2.5,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Serbia",
+   "Status": "operating",
+   "Blast furnace (BF)": 1.3,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Serbia",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0.9,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Egypt",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Status": "construction",
+   "Blast furnace (BF)": 5,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Greece",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Status": "construction",
+   "Blast furnace (BF)": 6.18,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sweden",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 4.8,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Qatar",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.7,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Qatar",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.8,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Japan",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Japan",
+   "Status": "construction",
+   "Blast furnace (BF)": 0.05,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Japan",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 8.58,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Oman",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 4.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Oman",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.82,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Moldova",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Türkiye",
+   "Status": "construction",
+   "Blast furnace (BF)": 1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Korea",
+   "Status": "retired",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 1.5
+ },
+ {
+   "Country": "Indonesia",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 1.2,
+   "Direct reduced iron (DRI)": 1.35,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kazakhstan",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Status": "announced",
+   "Blast furnace (BF)": 4,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Albania",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hungary",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hungary",
+   "Status": "retired",
+   "Blast furnace (BF)": 0.64,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hungary",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hungary",
+   "Status": "mothballed pre-retirement",
+   "Blast furnace (BF)": 0.66,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Libya",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.806,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Libya",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 10.1,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Latvia",
+   "Status": "retired",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.74,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Status": "retired",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iraq",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Thailand",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Italy",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Oman",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Philippines",
+   "Status": "construction",
+   "Blast furnace (BF)": 1.79,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 11.5
+ },
+ {
+   "Country": "Myanmar",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.28,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Singapore",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Japan",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sweden",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0.009,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Finland",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Status": "retired",
+   "Blast furnace (BF)": 1.23,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Korea",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Korea",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 6.5,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "South Korea",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 1.3,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.02,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kazakhstan",
+   "Status": "operating",
+   "Blast furnace (BF)": 6.45,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kazakhstan",
+   "Status": "retired",
+   "Blast furnace (BF)": 1.1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United States",
+   "Status": "retired",
+   "Blast furnace (BF)": 1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Germany",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.1,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Ghana",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Norway",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Brazil",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kenya",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Portugal",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United States",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sweden",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 4.105,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Sweden",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.1,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Finland",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 2.6,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 2,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Iraq",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Philippines",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bulgaria",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Bahrain",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.6,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Oman",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "North Korea",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 5.655,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 6.31,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Status": "retired",
+   "Blast furnace (BF)": 4.77,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 3.6,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uganda",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.2,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Argentina",
+   "Status": "retired",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 1.1,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Status": "mothballed",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 2.2,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Status": "operating",
+   "Blast furnace (BF)": 1.1,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Czech Republic",
+   "Status": "announced",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Kuwait",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Russia",
+   "Status": "retired",
+   "Blast furnace (BF)": 0.97,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Status": "operating",
+   "Blast furnace (BF)": 5,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Status": "operating",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Austria",
+   "Status": "operating",
+   "Blast furnace (BF)": 4.125,
+   "Direct reduced iron (DRI)": 0.001,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Austria",
+   "Status": "construction",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Austria",
+   "Status": "operating pre-retirement",
+   "Blast furnace (BF)": 2.525,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ },
+ {
+   "Country": "Poland",
+   "Status": "cancelled",
+   "Blast furnace (BF)": 0,
+   "Direct reduced iron (DRI)": 0,
+   "Other or unspecified": 0
+ }
+]
