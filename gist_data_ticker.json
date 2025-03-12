@@ -1,0 +1,632 @@
+[
+ {
+   "Country": "Türkiye",
+   "summary_1": "<span>{{14}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{1}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{56}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{11}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Namibia",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{1}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{5}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Russia",
+   "summary_1": "<span>{{71}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{14}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{86}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{7}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Bangladesh",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{2}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Italy",
+   "summary_1": "<span>{{4}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{5}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{31}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Angola",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{2}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "South Africa",
+   "summary_1": "<span>{{7}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{7}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Spain",
+   "summary_1": "<span>{{5}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{4}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{19}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Peru",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "India",
+   "summary_1": "<span>{{152}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{175}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{135}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{352}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Nigeria",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{4}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{7}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Germany",
+   "summary_1": "<span>{{32}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{9}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{49}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{18}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Pakistan",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{5}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Guatemala",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Iran",
+   "summary_1": "<span>{{50}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{30}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{44}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{50}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Japan",
+   "summary_1": "<span>{{86}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{104}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Kazakhstan",
+   "summary_1": "<span>{{6}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{5}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{8}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Iraq",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "summary_1": "<span>{{7}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{8}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{12}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{13}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Ukraine",
+   "summary_1": "<span>{{19}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{18}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Egypt",
+   "summary_1": "<span>{{8}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{3}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{17}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Algeria",
+   "summary_1": "<span>{{10}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{3}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{11}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Canada",
+   "summary_1": "<span>{{9}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{3}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{16}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Malaysia",
+   "summary_1": "<span>{{7}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{21}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{13}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{23}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "United States",
+   "summary_1": "<span>{{32}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{13}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{113}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{8}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Mexico",
+   "summary_1": "<span>{{7}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{2}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{22}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{5}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "China",
+   "summary_1": "<span>{{898}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{109}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1056}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{140}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Indonesia",
+   "summary_1": "<span>{{12}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{3}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{20}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{22}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Belgium",
+   "summary_1": "<span>{{5}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{3}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{8}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Brazil",
+   "summary_1": "<span>{{34}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{2}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{44}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "summary_1": "<span>{{4}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Argentina",
+   "summary_1": "<span>{{6}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{8}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Poland",
+   "summary_1": "<span>{{5}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{10}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Luxembourg",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "France",
+   "summary_1": "<span>{{9}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{7}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{18}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{7}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Romania",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{3}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{5}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Morocco",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "summary_1": "<span>{{1}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Chile",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Azerbaijan",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Thailand",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{3}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{9}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Philippines",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{13}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{22}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Zimbabwe",
+   "summary_1": "<span>{{1}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{5}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Finland",
+   "summary_1": "<span>{{3}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{4}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{5}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "New Zealand",
+   "summary_1": "<span>{{1}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Australia",
+   "summary_1": "<span>{{4}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{19}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{7}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "United Kingdom",
+   "summary_1": "<span>{{3}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Belarus",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Cambodia",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{3}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Vietnam",
+   "summary_1": "<span>{{16}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{14}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{37}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{43}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Taiwan",
+   "summary_1": "<span>{{16}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{24}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "North Korea",
+   "summary_1": "<span>{{5}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{10}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Venezuela",
+   "summary_1": "<span>{{6}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "South Korea",
+   "summary_1": "<span>{{55}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{9}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{80}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Kenya",
+   "summary_1": "<span>{{1}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Ethiopia",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Bolivia",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Czech Republic",
+   "summary_1": "<span>{{2}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{6}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Syria",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Greece",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Serbia",
+   "summary_1": "<span>{{1}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Sweden",
+   "summary_1": "<span>{{4}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{7}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{5}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{9}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Qatar",
+   "summary_1": "<span>{{2}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Oman",
+   "summary_1": "<span>{{2}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{10}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{5}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Moldova",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Myanmar",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{5}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{4}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Albania",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Sri Lanka",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Hungary",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Libya",
+   "summary_1": "<span>{{2}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{10}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Latvia",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "North Macedonia",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Slovakia",
+   "summary_1": "<span>{{5}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{5}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Uzbekistan",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{4}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Singapore",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "summary_1": "<span>{{2}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Ghana",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Norway",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Hong Kong",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Slovenia",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Portugal",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Switzerland",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Bulgaria",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Bahrain",
+   "summary_1": "<span>{{2}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Netherlands",
+   "summary_1": "<span>{{6}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{6}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{8}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{7}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Uganda",
+   "summary_1": "<span>{{1}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Mozambique",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{1}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Kuwait",
+   "summary_1": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{1}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{0}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Austria",
+   "summary_1": "<span>{{7}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{0}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{8}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{3}}mtpa</span><br>steelmaking capacity<br>in development"
+ },
+ {
+   "Country": "Global",
+   "summary_1": "<span>{{1645}}mtpa</span><br>ironmaking capacity<br>in operation",
+   "summary_2": "<span>{{543}}mtpa</span><br>ironmaking capacity<br>in development",
+   "summary_3": "<span>{{2202}}mtpa</span><br>steelmaking capacity<br>in operation",
+   "summary_4": "<span>{{873}}mtpa</span><br>steelmaking capacity<br>in development"
+ }
+]
